@@ -10,8 +10,8 @@ I wrote this simple yet effective keylogger for education purposes! Most AV Shou
 
 Either replace the 00000s with actual data or write another program to inject it into the Binary code!
 		
-        Enjoy. :]
-                                                                    ~/ NoobieDog
+Enjoy. :]
+ ~/ NoobieDog
 
 ## Contact Information:
 
